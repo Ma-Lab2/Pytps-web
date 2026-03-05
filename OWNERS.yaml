@@ -1,0 +1,11 @@
+project: Pytps-web
+maintainers:
+  - github: @zxc123aa
+    role: lead
+    backup_for: @Ma-Lab2
+  - github: @Ma-Lab2
+    role: co-maintainer
+    backup_for: @zxc123aa
+handover:
+  required_min_maintainers: 2
+  graduation_notice_days: 30
