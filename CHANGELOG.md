@@ -6,9 +6,9 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 
 ## [Unreleased]
 
-## [0.2.0] - 2026-03-05
-### Added
-- Governance baseline migration to laser-plasma-github-governance v0.2.0.
+## [0.2.1] - 2026-03-05
+### Changed
+- Upgrade governance skill baseline to v0.2.1 with AI-agent disclosure gates.
 
 
 ### Added
